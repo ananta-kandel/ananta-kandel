@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there i am Ananta kandel 👋
+love To learn new technologies and focoused in front end Development and can do beckend As well.
 
 find me!
 https://www.linkedin.com/in/ananta-kandel-3316a5211/
