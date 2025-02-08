@@ -1,5 +1,5 @@
 ### Hi there i am Ananta kandel 👋
-Love To learn new technologies focuses on web Development and loves making sites live using DevOps practice.
+"Passionate about exploring new technologies with a focus on web development. I thrive on bringing ideas to life and deploying them seamlessly using DevOps practices. Let's build the future of the web, one project at a time!"
 
 find me!
 https://www.linkedin.com/in/ananta-kandel-3316a5211/
